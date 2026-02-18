@@ -1,7 +1,7 @@
 ## hi there
 currently building agentic software to solve developer problems
 
-[mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
+contact: [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
 
 past projects:
 - [wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system)
