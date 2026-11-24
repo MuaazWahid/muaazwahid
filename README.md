@@ -1,11 +1,18 @@
-## hi
-currently building agentic software to solve developer problems
+hi! i am a software engineer interested in machine learning, software infrastructure, and platform engineering.
 
-contact: [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
+contact:
+- [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
+- [linkedIn](https://www.linkedin.com/in/muaazwahid)
+- [personal site](https://muaazwahid.github.io)
+- [personal site](https://muaazwahid.github.io)
 
-past projects:
+current work:
+- [maintaining GoodMem's plugin on the official Claude marketplace](https://claude.com/marketplace/plugins/goodmem)
+- [GoodMem docs + SDKs reconciler](https://goodmem.ai/blog/keeping-docs-and-sdks-in-step-with-the-api/)
+- [saving money by replacing Opus with GLM in CI/CD](https://goodmem.ai/blog/open-source-ci-audit-savings/)
 
-[wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system) ***/***
-[cauliflower leaf disease classification](https://github.com/MuaazWahid/cs550/blob/main/final/README.md) ***/***
-[poultry disease classification](https://github.com/MuaazWahid/cs550/blob/main/midterm/README.md) ***/***
-[flymail](https://github.com/MuaazWahid/FlyMail)
+past work:
+- [wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system)
+- [cauliflower leaf disease classification](https://github.com/MuaazWahid/cs550/blob/main/final/README.md)
+- [poultry disease classification](https://github.com/MuaazWahid/cs550/blob/main/midterm/README.md)
+- [flymail](https://github.com/MuaazWahid/FlyMail)
