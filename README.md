@@ -1,8 +1,7 @@
 hi! i am a software engineer interested in machine learning, software infrastructure, and platform engineering.
 
-[mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
-
-[linkedIn](https://www.linkedin.com/in/muaazwahid)
+- [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
+- [linkedIn](https://www.linkedin.com/in/muaazwahid)
 
 current work:
 - [maintaining GoodMem's plugin on the official Claude marketplace](https://claude.com/marketplace/plugins/goodmem)
