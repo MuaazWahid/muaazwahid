@@ -3,8 +3,6 @@ hi! i am a software engineer interested in machine learning, software infrastruc
 contact:
 - [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
 - [linkedIn](https://www.linkedin.com/in/muaazwahid)
-- [personal site](https://muaazwahid.github.io)
-- [personal site](https://muaazwahid.github.io)
 
 current work:
 - [maintaining GoodMem's plugin on the official Claude marketplace](https://claude.com/marketplace/plugins/goodmem)
@@ -14,5 +12,4 @@ current work:
 past work:
 - [wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system)
 - [cauliflower leaf disease classification](https://github.com/MuaazWahid/cs550/blob/main/final/README.md)
-- [poultry disease classification](https://github.com/MuaazWahid/cs550/blob/main/midterm/README.md)
 - [flymail](https://github.com/MuaazWahid/FlyMail)
