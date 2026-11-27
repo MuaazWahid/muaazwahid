@@ -1,4 +1,4 @@
-hi! i'm a software engineer interested in machine learning, ai, and software infrastructure (DevOps/Platform Engineering).
+Hi! I'm a Software Engineer interested in ML, AI, and software infra (DevOps/Platform Engineering).
 
 - [mzwd.github@mailgw.com](mailto:mzwd.github@mailgw.com)
 - [linkedIn](https://www.linkedin.com/in/muaazwahid)
