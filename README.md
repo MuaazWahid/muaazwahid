@@ -4,10 +4,10 @@ Hi! I'm a Software Engineer interested in ML, AI, and software infra (DevOps/Pla
 - [linkedIn](https://www.linkedin.com/in/muaazwahid)
 
 current work:
+- [legal AI demo](https://casecite.site.goodmem.ai/)
 - [GoodMem's official Claude marketplace plugin](https://claude.com/marketplace/plugins/goodmem)
 - [GoodMem docs + SDKs reconciler](https://goodmem.ai/blog/keeping-docs-and-sdks-in-step-with-the-api/)
 - [saving money by replacing Opus with GLM in CI/CD](https://goodmem.ai/blog/open-source-ci-audit-savings/)
-- [legal AI demo](https://casecite.site.goodmem.ai/)
 
 past work:
 - [wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system)
