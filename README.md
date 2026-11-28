@@ -9,6 +9,7 @@ current work:
 - [saving money by replacing Opus with GLM in CI/CD](https://goodmem.ai/blog/open-source-ci-audit-savings/)
 
 past work:
+- [legal AI demo](https://casecite.site.goodmem.ai/)
 - [wildfire prevention system](https://github.com/muaazwahid/wildfire-prevention-system)
 - [cauliflower leaf disease classification](https://github.com/MuaazWahid/cs550/blob/main/final/README.md)
 - [flymail](https://github.com/MuaazWahid/FlyMail)
